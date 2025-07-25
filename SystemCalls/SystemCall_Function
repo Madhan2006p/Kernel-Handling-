@@ -1,0 +1,3 @@
+We Go for System calls for , intract with OS 
+
+A user program can interact with the operating system using a system call. A number of services are requested by the program, and the OS responds by launching a number of systems calls to fulfill the request.
